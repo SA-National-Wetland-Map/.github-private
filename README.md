@@ -61,7 +61,7 @@ graph TD
     
 2. Data Inputs
 
-The SA-National Wetland Map (master map) is built from two specialized private repositories:
+The SA-National Wetland Map (master map) is built from two specialised private repositories:
 
 SA_NWM_wetland_extent: Manages the "Where" (field observations, desktop digitised boundaries, automated wetland potential mapping and Earth Observation detections).
 
